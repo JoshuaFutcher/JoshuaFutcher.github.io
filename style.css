@@ -55,7 +55,7 @@ main {
 
 #content p {
     font-size: calc(10px + (20 - 10) * ((100vw - 350px) / (1900 - 350)));
-    line-height: calc(1.2em + (1.5 - 1.2) * ((100vw - 350px) / (1900 - 350)));
+    line-height: calc(1.4em + (1.5 - 1.4) * ((100vw - 350px) / (1900 - 350)));
     letter-spacing: 1px;
     margin-top: 40px;
     width: calc(20em + (60 - 20) * ((100vw - 350px) / (1900 - 350)));
